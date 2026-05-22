@@ -1,0 +1,126 @@
+/* ============================================================
+   Styles personnalisés — CMS Université de Ngaoundéré
+   Fichier : assets/css/style.css
+   ============================================================ */
+
+/* Couleurs principales */
+:root {
+    --cms-blue:       #1A5276;
+    --cms-blue-light: #2E86C1;
+    --cms-white:      #FFFFFF;
+    --cms-gray:       #F4F6F7;
+}
+
+body {
+    background-color: var(--cms-gray);
+    font-family: 'Segoe UI', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Navbar */
+.navbar {
+    background-color: var(--cms-blue) !important;
+}
+
+/* Cards */
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-3px);
+}
+
+/* Boutons */
+.btn-primary {
+    background-color: var(--cms-blue);
+    border-color: var(--cms-blue);
+}
+
+.btn-primary:hover {
+    background-color: var(--cms-blue-light);
+    border-color: var(--cms-blue-light);
+}
+
+/* Page de connexion */
+.auth-wrapper {
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.auth-card {
+    width: 100%;
+    max-width: 450px;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+}
+
+.auth-card .card-header {
+    background-color: var(--cms-blue);
+    color: white;
+    border-radius: 16px 16px 0 0 !important;
+    text-align: center;
+    padding: 24px;
+}
+
+/* Tableau de bord — cartes statistiques */
+.stat-card {
+    border-radius: 12px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.stat-card .stat-icon {
+    font-size: 2.5rem;
+    opacity: 0.8;
+}
+
+.stat-card .stat-number {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+/* Badges de statut */
+.badge-en_attente  { background-color: #F39C12; }
+.badge-confirme    { background-color: #27AE60; }
+.badge-annule      { background-color: #E74C3C; }
+.badge-effectue    { background-color: #2980B9; }
+
+/* Footer */
+footer {
+    margin-top: auto;
+    background-color: var(--cms-blue) !important;
+}
+
+/* Sidebar (dashboard) */
+.sidebar {
+    min-height: calc(100vh - 56px);
+    background-color: var(--cms-blue);
+    padding-top: 20px;
+}
+
+.sidebar .nav-link {
+    color: rgba(255,255,255,0.8);
+    padding: 10px 20px;
+    border-radius: 8px;
+    margin: 2px 10px;
+    transition: all 0.2s;
+}
+
+.sidebar .nav-link:hover,
+.sidebar .nav-link.active {
+    background-color: rgba(255,255,255,0.15);
+    color: white;
+}
+
+.sidebar .nav-link i {
+    margin-right: 8px;
+}
