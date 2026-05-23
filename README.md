@@ -22,7 +22,7 @@ Ce projet a été développé dans le cadre de l'unité **Ingénierie des Applic
 | Membre 1 (Chef) | Base de données + Infrastructure | `membre1-base-infrastructure` |
 | Membre 2 | Module Authentification | `membre2-authentification` |
 | Membre 3 | Module Patient — Rendez-vous | `membre3-patient-rdv` |
-| Membre 4 | Module Patient — Dossier Médical | `membre4-patient-dossier` |
+| [Foulpoul Bienvenu](https://github.com/bienco002) | Module Patient — Dossier Médical | `membre4-patient-dossier` |
 | Membre 5 | Module Médecin | `membre5-module-medecin` |
 | Membre 6 | Module Admin — Gestion | `membre6-admin-gestion` |
 | Membre 7 | Module Admin — Rapports | `membre7-admin-rapports` |
@@ -77,7 +77,7 @@ Ce projet a été développé dans le cadre de l'unité **Ingénierie des Applic
 ```bash
 git clone https://github.com/VOTRE_USERNAME/cms-medical-ungaoundere.git
 ```
-
+     
 **2. Copier dans htdocs**
 ```
 Copiez le dossier cms_medical dans : C:\xampp\htdocs\
