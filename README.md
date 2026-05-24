@@ -19,14 +19,14 @@ Ce projet a été développé dans le cadre de l'unité **Ingénierie des Applic
 
 | Membre | Rôle | Branche |
 |--------|------|---------|
-| Membre 1 (Chef) | Base de données + Infrastructure | `membre1-base-infrastructure` |
-| Membre 2 | Module Authentification | `membre2-authentification` |
-| Membre 3 | Module Patient — Rendez-vous | `membre3-patient-rdv` |
-| [Foulpoul Bienvenu](https://github.com/bienco002) | Module Patient — Dossier Médical | `membre4-patient-dossier` |
-| Membre 5 | Module Médecin | `membre5-module-medecin` |
-| Membre 6 | Module Admin — Gestion | `membre6-admin-gestion` |
-| Membre 7 | Module Admin — Rapports | `membre7-admin-rapports` |
-| Membre 8 | Cahier des Charges + Diagrammes UML | `membre8-cahier-des-charges` |
+|BAKAI JOEL: Membre 1 (Chef) | Base de données + Infrastructure | `membre1-base-infrastructure` |
+|DAAYANG LANDRY: Membre 2 | Module Authentification | `membre2-authentification` |
+|ZEUFALBO PAYANG: Membre 3 | Module Patient — Rendez-vous | `membre3-patient-rdv` |
+|FOULPOUL BIENVENU: | Module Patient — Dossier Médical | `membre4-patient-dossier` |
+|DJERANE MODESTE: Membre 5 | Module Médecin | `membre5-module-medecin` |
+|YOSSA DEVANE: Membre 6 | Module Admin — Gestion | `membre6-admin-gestion` |
+|TEMWA HABMO MAXIME: Membre 7 | Module Admin — Rapports | `membre7-admin-rapports` |
+|POKAM JAIRUS: Membre 8 | Cahier des Charges + Diagrammes UML | `membre8-cahier-des-charges` |
 
 ---
 
