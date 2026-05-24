@@ -19,14 +19,14 @@ Ce projet a été développé dans le cadre de l'unité **Ingénierie des Applic
 
 | Membre | Rôle | Branche |
 |--------|------|---------|
-|BAKAI JOEL: Membre 1 (Chef) | Base de données + Infrastructure | `membre1-base-infrastructure` |
-|DAAYANG LANDRY: Membre 2 | Module Authentification | `membre2-authentification` |
-|ZEUFALBO PAYANG: Membre 3 | Module Patient — Rendez-vous | `membre3-patient-rdv` |
-|FOULPOUL BIENVENU: | Module Patient — Dossier Médical | `membre4-patient-dossier` |
-|DJERANE MODESTE: Membre 5 | Module Médecin | `membre5-module-medecin` |
-|YOSSA DEVANE: Membre 6 | Module Admin — Gestion | `membre6-admin-gestion` |
-|TEMWA HABMO MAXIME: Membre 7 | Module Admin — Rapports | `membre7-admin-rapports` |
-|POKAM JAIRUS: Membre 8 | Cahier des Charges + Diagrammes UML | `membre8-cahier-des-charges` |
+|BAKAI JOEL: 22A160FS (Chef) | Base de données + Infrastructure | `membre1-base-infrastructure` |
+|DAAYANG LANDRY: 22B442FS | Module Authentification | `membre2-authentification` |
+|ZEUFALBO PAYANG: 23A164FS | Module Patient — Rendez-vous | `membre3-patient-rdv` |
+|FOULPOUL BIENVENU: 22A709FS | Module Patient — Dossier Médical | `membre4-patient-dossier` |
+|DJERANE MODESTE: 18A803FS | Module Médecin | `membre5-module-medecin` |
+|YOSSA DEVANE: 22B286FS | Module Admin — Gestion | `membre6-admin-gestion` |
+|TEMWA HABMO MAXIME: 22A578FS | Module Admin — Rapports | `membre7-admin-rapports` |
+|POKAM JAIRUS: 22A346FS | Cahier des Charges + Diagrammes UML | `membre8-cahier-des-charges` |
 
 ---
 
@@ -75,7 +75,7 @@ Ce projet a été développé dans le cadre de l'unité **Ingénierie des Applic
 
 **1. Cloner le dépôt**
 ```bash
-git clone https://github.com/VOTRE_USERNAME/cms-medical-ungaoundere.git
+git clone https://github.com/joelbakai68-beep/cms-medical-ungaoundere.git
 ```
      
 **2. Copier dans htdocs**
